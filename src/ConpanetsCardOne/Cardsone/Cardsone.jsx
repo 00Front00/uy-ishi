@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Cardsone.css"
-import rasm from '../../image.png' // src papkasidan bitta tepaga chiqib image.png ni olamiz
+import rasm from '../../image.png' 
 
 function Cardsone() {
   return (
